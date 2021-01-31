@@ -1,0 +1,7 @@
+=>mongodb access user
+user:admin
+pass:admin
+
+->strapi admin
+email:retrocode.rc@gmail.com
+pass:Strapi-admin-pass2020
